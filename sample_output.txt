@@ -1,0 +1,16 @@
+STUDENT PERFORMANCE REPORT
+========================================================================
+Student  Python  Mathematics  AI_Basics  Total  Average  Performance
+  Aarav      85           90         88    263    87.67         Good
+   Diya      92           86         95    273    91.00    Excellent
+  Kabir      78           80         82    240    80.00         Good
+  Meera      88           94         91    273    91.00    Excellent
+  Rohan      74           70         76    220    73.33 Satisfactory
+
+TOP PERFORMER
+Diya with an average of 91.0
+
+AVERAGE MARKS BY SUBJECT
+Python         83.4
+Mathematics    84.0
+AI_Basics      86.4
